@@ -27,10 +27,7 @@
   <a href="https://www.linkedin.com/intatiana-pauline-fernandes-8a69b7127" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="WhatsApp target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo= whatsapp&logoColor=white target="_blank"></a>
       <a href = "mailto:paulitati81@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
-     
-     
-  
-     
+         
 </div>
           
   
