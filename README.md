@@ -4,6 +4,9 @@
 
 🎧 EM BUSCA DE NOVOS DESAFIOS NO OCEANO DA TECNOLOGIA;
 
+WHY AM I SO PASSIONAL ABOUT THIS
+YOU CAN DO
+
 <div align="center">
   <a href="https://github.com/pauline40-ss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauline40-ss&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
